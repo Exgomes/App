@@ -30,8 +30,15 @@ Constantes
 
 String (texto): "" '' ``
 Number (numeros) 2 1.4
-Function (função)
+boolean: true, false
 
 ## Operadores
 
-Operador de atribuição de valor
+Operador de atribuição de valor =
+Operador de concatenação +
+
+### Function
+
+- Criar, passar argumento
+- Executar
+- Aroow function exemplo: const criar meta = () => {} / named function exemplo: function criar meta() {}
