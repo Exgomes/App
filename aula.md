@@ -42,3 +42,7 @@ Operador de concatenação +
 - Criar, passar argumento
 - Executar
 - Aroow function exemplo: const criar meta = () => {} / named function exemplo: function criar meta() {}
+
+### Estrutura de repetição
+
+- while
