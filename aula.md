@@ -46,3 +46,7 @@ Operador de concatenação +
 ### Estrutura de repetição
 
 - while
+
+# Condicionais
+
+- switch
