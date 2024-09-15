@@ -36,6 +36,8 @@ boolean: true, false
 
 Operador de atribuição de valor =
 Operador de concatenação +
+Operadores de comparação == != < > <= >=
+
 
 ### Function
 
@@ -50,6 +52,7 @@ Operador de concatenação +
 # Condicionais
 
 - switch
+- if/else
 
 ## Módulos em Node.js:
 - Importação de módulos (require, CommonJS)
